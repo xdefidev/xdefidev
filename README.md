@@ -9,7 +9,7 @@
 
 - 📫 How to reach us
 - **xdefidev@gmail.com**
-- <a href="https://t.me/xdefideveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="xdefideveloper" height="30" width="40" /></a>
+- **<a href="https://t.me/xdefideveloper" target="blank">Telegram</a>**
 
 - ⚡ We have a services listing on [https://xdefidev.com](https://xdefidev.com)
 
