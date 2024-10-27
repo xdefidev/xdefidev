@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/xdefidev" target="blank"><img src="https://img.shields.io/twitter/follow/xdefidev?logo=twitter&style=for-the-badge" alt="xdefidev" /></a> </p>
 
-- 👨‍💻 Some of our projects are available at [https://xdefidev.com/portfolio](https://xdefidev.com/portfolio)
+
 
 - **Backend web development (NodeJS, TypeScript)**
 - **Frontend web development (Nextjs, React.js, Vue.js)**
-- **Blockchain Development**
+- **Blockchain Development (Polygon edge, Solidity, Rust)**
+
+- 👨‍💻 Some of our projects are available at [https://xdefidev.com/portfolio](https://xdefidev.com/portfolio)
 
 - 📫 How to reach us
 - **xdefidev@gmail.com**
