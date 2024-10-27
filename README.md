@@ -7,7 +7,9 @@
 
 - 💬 Ask us about **Backend web development (NodeJS, TypeScript), Frontend web development (Nextjs, React.js, Vue.js)**
 
-- 📫 How to reach us **xdefidev@gmail.com**
+- 📫 How to reach us
+- **xdefidev@gmail.com**
+- <a href="https://t.me/xdefideveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="xdefideveloper" height="30" width="40" /></a>
 
 - ⚡ We have a services listing on [https://xdefidev.com](https://xdefidev.com)
 
