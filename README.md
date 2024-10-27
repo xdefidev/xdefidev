@@ -9,13 +9,16 @@
 - **Frontend web development (Nextjs, React.js, Vue.js)**
 - **Blockchain Development (Polygon edge, Solidity, Rust)**
 
-- 👨‍💻 Some of our projects are available at [https://xdefidev.com/portfolio](https://xdefidev.com/portfolio)
+👨‍💻 Some of our projects are available at [https://xdefidev.com/portfolio](https://xdefidev.com/portfolio)
 
-- 📫 How to reach us
+
+
+ 📫 How to reach us
 - **xdefidev@gmail.com**
 - **<a href="https://t.me/xdefideveloper" target="blank">Telegram</a>**
 
-- ⚡ We have a services listing on [https://xdefidev.com](https://xdefidev.com)
+
+⚡ We have a services listing on [https://xdefidev.com](https://xdefidev.com)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
